@@ -391,15 +391,17 @@
             width: 40px;
             height: 40px;
             border-radius: 50%;
-            background-color: var(--pink);
+            background-color: var(--white);
             color: var(--white);
             margin-right: 10px;
             text-decoration: none;
-            transition: background-color 0.3s;
+            transition: background-color 0.1s;
         }
         
         .social-links a:hover {
             background-color: var(--dark-pink);
+            font-size: x-large;
+            
         }
         
         .contact-form {
